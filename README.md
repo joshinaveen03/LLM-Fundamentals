@@ -122,52 +122,6 @@ After completing this presentation, you will be able to:
 
 ---
 
-## 🚀 Getting Started
 
-1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/llm-fundamentals.git
-```
-
-2. Open the presentation slides
-
-3. Follow along with examples and exercises
-
----
-
-## 📷 Presentation Preview
-
-This repository includes professionally designed slides explaining:
-
-* LLM Fundamentals
-* Tokens
-* Context Windows
-* Embeddings
-* Interview Preparation
-
----
-
-## 🤝 Contributing
-
-Contributions, suggestions, and improvements are welcome.
-
-Feel free to:
-
-* Open Issues
-* Submit Pull Requests
-* Share Feedback
-
----
-
-## ⭐ Support
-
-If you found this repository useful, please consider giving it a ⭐ Star.
-
----
-
-## 📬 Connect
-
-Let's connect and learn AI together.
 
 #AI #LLM #GenerativeAI #ChatGPT #ClaudeAI #GeminiAI #LangGraph #LangChain #MachineLearning #ArtificialIntelligence
